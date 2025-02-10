@@ -2,7 +2,7 @@
 
 Implementation of FLIPHAT algorithm for Jointly Differentially Private Sparse Linear Contextual Bandits - see [paper](https://arxiv.org/abs/2405.14038) (Sunrit Chakraborty, Saptarshi Roy, Debabrota Basu)
 
-The main codes are in `SparseBandit` (see `example.ipynb` for a brief demo). Check `simulation_results.ipynb` which recreates the plots in the paper.
+The main codes are in `SparseBandit` (see `example.ipynb` for a brief demo). Check `plots` folder to see the figures generated from simulation studies (for more details, see paper).
 
 Packages used (`Python` 3.9.18):
 1. `jax` (0.4.23)
